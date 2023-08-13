@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6XRfLQtTXWcQIN+BRmLo4oJ8e49B9fEiTCi50rOV/NtVL3rgh6llQcQjPxtAyjqzAiTvUaryolzhByYm4qbBSg==",
+  "success": true,
+  "projectFilePath": "D:\\Aranda TEST repo\\ArandaTestBackend\\Aranda.TestBackend.Domain\\Aranda.TestBackend.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mart800749\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

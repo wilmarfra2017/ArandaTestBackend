@@ -1,0 +1,24 @@
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.deps.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.csproj.AssemblyReference.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.AssemblyInfoInputs.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.AssemblyInfo.cs
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.csproj.CoreCompileInputs.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\refint\Aranda.TestBackend.Domain.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\ref\Aranda.TestBackend.Domain.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.deps.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\bin\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.csproj.AssemblyReference.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.AssemblyInfoInputs.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.AssemblyInfo.cs
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.csproj.CoreCompileInputs.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\refint\Aranda.TestBackend.Domain.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Domain\obj\Debug\net6.0\ref\Aranda.TestBackend.Domain.dll

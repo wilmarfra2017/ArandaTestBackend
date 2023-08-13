@@ -1,0 +1,168 @@
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\appsettings.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.exe
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.deps.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.runtimeconfig.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Application.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Infraestructure.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Application.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Infraestructure.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.AssemblyReference.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.AssemblyInfoInputs.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.AssemblyInfo.cs
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.CoreCompileInputs.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\scopedcss\bundle\Aranda.TestBackend.Api.styles.css
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.CopyComplete
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\refint\Aranda.TestBackend.Api.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.genruntimeconfig.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\ref\Aranda.TestBackend.Api.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\appsettings.Development.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\appsettings.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.exe
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.deps.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.runtimeconfig.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Api.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Azure.Core.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Azure.Identity.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Google.Protobuf.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.Contracts.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\MediatR.Extensions.Microsoft.DependencyInjection.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Application.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Domain.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Infraestructure.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Application.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Domain.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\bin\Debug\net6.0\Aranda.TestBackend.Infraestructure.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.AssemblyReference.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.AssemblyInfoInputs.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.AssemblyInfo.cs
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.CoreCompileInputs.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.MvcApplicationPartsAssemblyInfo.cs
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\staticwebassets.build.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\staticwebassets.development.json
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\scopedcss\bundle\Aranda.TestBackend.Api.styles.css
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.csproj.CopyComplete
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\refint\Aranda.TestBackend.Api.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\Aranda.TestBackend.Api.genruntimeconfig.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.Api\obj\Debug\net6.0\ref\Aranda.TestBackend.Api.dll

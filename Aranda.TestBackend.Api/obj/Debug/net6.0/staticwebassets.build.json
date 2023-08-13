@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "WpY0wqMRQUmg+mUdhQ3uC7Qp9mQUkQj6HK5jwuOjD/4=",
+  "Source": "Aranda.TestBackend.Api",
+  "BasePath": "_content/Aranda.TestBackend.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

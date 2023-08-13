@@ -1,0 +1,16 @@
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.dacpac
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.pdb
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.sqlproj.AssemblyReference.cache
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.dll
+D:\Aranda\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.dacpac
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\bin\Debug\Aranda.TestBackend.DataBase.pdb
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.sqlproj.AssemblyReference.cache
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Model.xml
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\refactor.xml
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\postdeploy.sql
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\predeploy.sql
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.dll
+D:\Aranda TEST repo\ArandaTestBackend\Aranda.TestBackend.DataBase\obj\Debug\Aranda.TestBackend.DataBase.pdb

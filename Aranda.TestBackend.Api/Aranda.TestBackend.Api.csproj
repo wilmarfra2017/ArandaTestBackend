@@ -1,0 +1,22 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Google.Protobuf" Version="3.24.0" />
+    <PackageReference Include="MediatR" Version="11.1.0" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Aranda.TestBackend.Application\Aranda.TestBackend.Application.csproj" />
+    <ProjectReference Include="..\Aranda.TestBackend.Domain\Aranda.TestBackend.Domain.csproj" />
+    <ProjectReference Include="..\Aranda.TestBackend.Infraestructure\Aranda.TestBackend.Infraestructure.csproj" />
+  </ItemGroup>
+
+</Project>

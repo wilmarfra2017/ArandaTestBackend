@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "nbsRoMkiwdw3pLiJgTGstLG1O/O5RYYdvO8d3W3GiLfhLPShQXMIg34+1r7Q2yACMGx1/IOLS+zIZm+5e1UHZA==",
+  "success": true,
+  "projectFilePath": "D:\\Aranda TEST repo\\ArandaTestBackend\\Aranda.TestBackend.Application\\Aranda.TestBackend.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mart800749\\.nuget\\packages\\google.protobuf\\3.24.0\\google.protobuf.3.24.0.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\mediatr\\11.1.0\\mediatr.11.1.0.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512",
+    "C:\\Users\\mart800749\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.1\\microsoft.extensions.logging.abstractions.7.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
